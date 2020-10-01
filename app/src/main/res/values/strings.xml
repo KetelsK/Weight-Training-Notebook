@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CarnetMusculation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nom_carnet">Nom du carnet: </string>
+    <string name="exemple_carnet">Exemple: Training prise de masse</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="nom_exercice">Nom de l\'exercice: </string>
+    <string name="exemple_exercice">Exemple: Développé couché</string>
+    <string name="note_carnet">Note: Un carnet est un ensemble de plusieurs séances d\'entrainement.</string>
+    <string name="nom_seance">Nom de la séance: </string>
+    <string name="exemple_seance">Exemple: Séance du lundi</string>
+    <string name="note_seance">Note: Une séance correspond au découpage que vous faites de votre entrainement.</string>
+    <string name="note_seance2">Voici quelques exemples d\'intitulé de séances:\n
+                                - Pectoraux/Triceps\n
+                                - Dos/biceps\n
+                                - etc...</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="nb_reps">Nombre de répétitions:</string>
+    <string name="poids">Poids:</string>
+    <string name="valider_serie">Valider la série</string>
+
+</resources>
