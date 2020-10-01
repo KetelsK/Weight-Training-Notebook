@@ -12,10 +12,10 @@ Local database for mobile.
 
 ### Notebooks:  
 ![carnets](https://user-images.githubusercontent.com/69913319/94811642-f22f7780-03f5-11eb-8a53-c55e0b9632e9.PNG)  
-### Sessions and exercises  
+### Sessions and exercises:  
 ![seances](https://user-images.githubusercontent.com/69913319/94812960-b7c6da00-03f7-11eb-9995-849a722cceb0.PNG)
 
-### Performances and chronometer  
+### Performances and chronometer:  
 ![perf](https://user-images.githubusercontent.com/69913319/94812237-c234a400-03f6-11eb-9f86-00dd8e9f9c39.PNG)
 
 
